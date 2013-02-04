@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="map-styles.css" />
+    <meta charset='utf-8'>
+    <link rel="stylesheet" type="text/css" href="css/map-styles.css" />
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <title>Rithk Map</title>
   </head>
@@ -36,7 +37,7 @@
         if(debug) { console.log(dtel.attr("id")+" deselected"); };
         return true;
       };
-      d3.xml("map.svg", "text/svg+xml", function(xml) {
+      d3.xml("images/map.svg", "text/svg+xml", function(xml) {
         var importedNode = document.importNode(xml.documentElement, true);
         d3.select("#map_data").node().appendChild(importedNode);
         d3.selectAll("use").on('click', function() {
