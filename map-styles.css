@@ -1,0 +1,34 @@
+svg#risk_svg g#layer2 .country_object {
+fill-opacity:1;
+fill-rule:evenodd;
+stroke:#000;
+stroke-width:1px;
+stroke-linecap:butt;
+stroke-linejoin:miter;
+stroke-opacity:1;
+display:inline;
+}
+.europe {
+  fill: #0000ff;
+}
+.asia {
+  fill: #00d000;
+}
+.north_america {
+  fill: #ffff00;
+}
+.south_america {
+  fill: #ff0000;
+}
+.africa {
+  fill: #ff8000;
+}
+.oz {
+  fill: #ff00ff;
+}
+.red {
+  fill: firebrick;
+}
+.blue {
+  fill: cornflowerblue;
+}

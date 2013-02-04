@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- pulled from http://upload.wikimedia.org/wikipedia/commons/2/24/Risk_Game_Graph.svg and customized greatly -->
+<svg
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="887.21564"
+   height="715.91797"
+   id="risk_svg"
+   sodipodi:version="0.32"
+   inkscape:version="0.47pre4 r22446"
+   version="1.1"
+   sodipodi:docname="Map.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2529"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter5200"
+       inkscape:label="filter1">
+      <feOffset
+         dx="3"
+         dy="3"
+         id="feOffset5202" />
+      <feGaussianBlur
+         stdDeviation="1.9705882352941175"
+         id="feGaussianBlur5204" />
+    </filter>
+    <path
+       id="country_object_template"
+       class="country_object"
+       sodipodi:type="arc"
+       sodipodi:cx="237.92363"
+       sodipodi:cy="186.60677"
+       sodipodi:rx="13.995507"
+       sodipodi:ry="13.995507"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 251.91914,186.60677 A 13.995507,13.995507 0 1 1 223.92812,186.60677 A 13.995507,13.995507 0 1 1 251.91914,186.60677 z" />
+  </defs>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer2"
+     style="display:inline"
+     transform="translate(-196.97201,-21.481119)">
+      <g id="blue_layer">
+      <rect
+         id="blue_player"
+         class="blue player"
+         y="80"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047" />
+      <text
+         id="blue_player_label"
+         y="80"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="105"
+           x="869.8374"
+           id="tspan5246"
+           sodipodi:role="line">blue</tspan></text></g>
+      <g id="red_layer">
+      <rect
+         id="red_player"
+         class="red player"
+         y="50"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047" />
+      <text
+         id="red_player_label"
+         y="50"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="75"
+           x="869.8374"
+           id="tspan5246"
+           sodipodi:role="line">red</tspan></text></g>
+
+    <!-- begin asia -->
+    <use xlink:href="#country_object_template" id="asia_1"  class="country asia" transform="translate(397.76455,-123.22058)" />
+    <use xlink:href="#country_object_template" id="asia_2"  class="country asia" transform="translate(491.40817,-150.63014)" />
+    <use xlink:href="#country_object_template" id="asia_3"  class="country asia" transform="translate(509.55281,-66.00993)" />
+    <use xlink:href="#country_object_template" id="asia_4"  class="country asia" transform="translate(520.79967,99.574607)" />
+    <use xlink:href="#country_object_template" id="asia_5"  class="country asia" transform="translate(616.58441,148.47645)" />
+    <use xlink:href="#country_object_template" id="asia_6"  class="country asia" transform="translate(543.05326,230.88158)" />
+    <use xlink:href="#country_object_template" id="asia_7"  class="country asia" transform="translate(459.39675,182.77681)" />
+    <use xlink:href="#country_object_template" id="asia_8"  class="country asia" transform="translate(411.91969,103.48751)" />
+    <use xlink:href="#country_object_template" id="asia_9"  class="country asia" transform="translate(437.12582,22.622987)" />
+    <use xlink:href="#country_object_template" id="asia_10" class="country asia" transform="translate(330.11244,-35.13719)" />
+    <use xlink:href="#country_object_template" id="asia_11" class="country asia" transform="translate(414.74904,-52.688928)" />
+    <!-- end asia -->
+    <!-- begin europe -->
+    <use xlink:href="#country_object_template" id="europe_1" class="country europe" transform="translate(229.92281,66.740061)" />
+    <use xlink:href="#country_object_template" id="europe_2" class="country europe" transform="translate(302.2809,116.9269)" />
+    <use xlink:href="#country_object_template" id="europe_3" class="country europe" transform="translate(371.47984,190.92218)" />
+    <use xlink:href="#country_object_template" id="europe_4" class="country europe" transform="translate(429.12598,301.94508)" />
+    <use xlink:href="#country_object_template" id="europe_5" class="country europe" transform="translate(317.33973,278.26222)" />
+    <use xlink:href="#country_object_template" id="europe_6" class="country europe" transform="translate(211.15007,253.7911)" />
+    <use xlink:href="#country_object_template" id="europe_7" class="country europe" transform="translate(210.19084,152.40398)" />
+    <use xlink:href="#country_object_template" id="europe_8" class="country europe" transform="translate(284.12906,200.47101)" />
+    <!-- end europe -->
+    <!-- begin north america -->
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_1" transform="translate(269.86506,-141.39522)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_2" transform="translate(93.975361,-31.049698)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_3" transform="translate(186.40876,0.4864756)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_4" transform="translate(180.48367,-84.25113)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_5" transform="translate(123.82911,67.875392)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_6" transform="translate(-11.489101,-45.506215)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_7" transform="translate(40.558024,44.606665)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_8" transform="translate(-26.456111,90.51284)" />
+    <use xlink:href="#country_object_template" class="country north_america" id="north_america_9" transform="translate(72.60869,-131.90709)" />
+    <!-- end north america -->
+    <!-- begin south america -->
+    <use xlink:href="#country_object_template" class="country south_america" id="south_america_1" transform="translate(29.706801,207.26278)" />
+    <use xlink:href="#country_object_template" class="country south_america" id="south_america_2" transform="translate(96.96303,305.89652)" />
+    <use xlink:href="#country_object_template" class="country south_america" id="south_america_3" transform="translate(-25.461507,300.58999)" />
+    <use xlink:href="#country_object_template" class="country south_america" id="south_america_4" transform="translate(34.191571,398.42322)" />
+    <!-- end south america -->
+    <!-- begin africa -->
+    <use xlink:href="#country_object_template" class="country africa" id="africa_1" transform="translate(224.10649,362.0362)" />
+    <use xlink:href="#country_object_template" class="country africa" id="africa_2" transform="translate(208.77939,455.63789)" />
+    <use xlink:href="#country_object_template" class="country africa" id="africa_3" transform="translate(321.94795,347.44264)" />
+    <use xlink:href="#country_object_template" class="country africa" id="africa_4" transform="translate(321.32837,434.04167)" />
+    <use xlink:href="#country_object_template" class="country africa" id="africa_5" transform="translate(274.84257,536.29679)" />
+    <use xlink:href="#country_object_template" class="country africa" id="africa_6" transform="translate(376.88738,513.68316)" />
+    <!-- end africa -->
+    <!-- begin oz -->
+    <use xlink:href="#country_object_template" class="country oz" id="oz_1" transform="translate(696.32272,141.18505)" />
+    <use xlink:href="#country_object_template" class="country oz" id="oz_2" transform="translate(762.49327,86.75175)" />
+    <use xlink:href="#country_object_template" class="country oz" id="oz_3" transform="translate(831.01252,137.18505)" />
+    <use xlink:href="#country_object_template" class="country oz" id="oz_4" transform="translate(766.49327,190.23693)" />
+    <!-- end oz -->
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 225.96303,267.18986 L 263.98615,241.14318"
+       id="path2535"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_8"
+       inkscape:connection-end="#north_america_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 270.10938,216.71792 L 234.8068,155.59606"
+       id="path2537"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_6"
+       inkscape:connection-start="#north_america_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 224.8395,155.59606 L 213.06255,262.6241"
+       id="path2539"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_8"
+       inkscape:connection-start="#north_america_6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 292.97716,235.26396 L 347.25723,250.43163"
+       id="path2541"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_5"
+       inkscape:connection-start="#north_america_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 357.37827,239.98665 L 336.27346,170.05257"
+       id="path2543"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_5"
+       inkscape:connection-end="#north_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 375.21376,239.98665 L 410.87137,201.58875"
+       id="path2545"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_5"
+       inkscape:connection-end="#north_america_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 409.83688,182.1477 L 346.3945,160.50261"
+       id="path2547"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_3"
+       inkscape:connection-end="#north_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 346.3945,146.64253 L 403.91179,111.27018"
+       id="path2549"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_2"
+       inkscape:connection-end="#north_america_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 419.42087,116.85114 L 423.31882,172.59773"
+       id="path2551"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_3"
+       inkscape:connection-start="#north_america_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 403.91179,95.951951 L 325.02783,61.10336"
+       id="path2555"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_4"
+       inkscape:connection-end="#north_america_9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 313.6032,69.195183 L 328.82811,141.06156"
+       id="path2559"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_2"
+       inkscape:connection-start="#north_america_9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 317.40348,153.5701 L 240.93004,143.08752"
+       id="path2561"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_6"
+       inkscape:connection-start="#north_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 240.54365,126.60504 L 296.4232,69.195183"
+       id="path2563"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#north_america_9"
+       inkscape:connection-start="#north_america_6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 321.66441,170.05257 L 288.71624,216.71792"
+       id="path2565"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_2"
+       inkscape:connection-end="#north_america_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 218.44063,291.61511 L 260.65732,379.37404"
+       id="path3442"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_8"
+       inkscape:connection-end="#south_america_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 259.06173,408.36505 L 221.03082,472.70125"
+       id="path3444"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#south_america_1"
+       inkscape:connection-end="#south_america_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 226.95763,487.82507 L 320.39115,491.87497"
+       id="path3446"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#south_america_3"
+       inkscape:connection-end="#south_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 325.0527,506.99879 L 281.94916,570.53448"
+       id="path3448"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#south_america_2"
+       inkscape:connection-end="#south_america_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 263.27667,570.53448 L 221.30065,501.69226"
+       id="path3450"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#south_america_4"
+       inkscape:connection-end="#south_america_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 277.51461,408.36505 L 325.00248,478.00778"
+       id="path3452"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#south_america_1"
+       inkscape:connection-end="#south_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 349.38217,498.90372 L 447.53461,542.24253"
+       id="path3454"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#africa_1"
+       inkscape:connection-start="#south_america_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 459.65651,563.13847 L 449.07663,627.74915"
+       id="path3456"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#africa_2"
+       inkscape:connection-start="#africa_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 458.57548,656.74016 L 500.89374,708.40805"
+       id="path3458"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_2"
+       inkscape:connection-end="#africa_5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 519.35595,708.40805 L 552.66225,635.14394"
+       id="path3460"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_5"
+       inkscape:connection-end="#africa_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 559.35571,606.15293 L 559.76787,548.54491"
+       id="path3462"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_4"
+       inkscape:connection-end="#africa_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 545.37607,536.21149 L 476.52563,546.48089"
+       id="path3464"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#africa_1"
+       inkscape:connection-start="#africa_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 476.52563,559.37878 L 544.75649,609.91262"
+       id="path3466"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_1"
+       inkscape:connection-end="#africa_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 544.75649,623.42988 L 461.19853,639.46322"
+       id="path3468"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_4"
+       inkscape:connection-end="#africa_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 527.26171,719.69128 L 600.3155,703.5022"
+       id="path3472"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#africa_6"
+       inkscape:connection-start="#africa_5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 604.69874,685.79442 L 569.36427,635.14394"
+       id="path3474"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_6"
+       inkscape:connection-end="#africa_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 571.08108,606.15293 L 655.22053,503.04735"
+       id="path3476"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_4"
+       inkscape:connection-end="#asia_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 652.5541,494.70525 L 574.36709,527.896"
+       id="path3478"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#africa_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 681.54512,479.5101 L 766.48138,426.53009"
+       id="path3480"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#asia_6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 670.73172,474.05634 L 693.63827,383.87908"
+       id="path3482"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#asia_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 659.52314,474.05634 L 616.92994,392.02445"
+       id="path3484"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#europe_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 652.5541,485.48085 L 569.75887,467.93998"
+       id="path3486"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#europe_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 558.90601,519.5539 L 556.22893,479.36449"
+       id="path3488"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_3"
+       inkscape:connection-end="#europe_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 476.52563,535.61814 L 540.76785,477.89381"
+       id="path3490"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#africa_1"
+       inkscape:connection-end="#europe_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 460.29508,534.14746 L 450.80874,454.89337"
+       id="path3492"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#europe_5"
+       inkscape:connection-start="#africa_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 463.56921,443.73832 L 540.76785,461.52854"
+       id="path3494"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_5"
+       inkscape:connection-end="#europe_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 564.2488,450.37348 L 600.41803,392.02445"
+       id="path3496"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_4"
+       inkscape:connection-end="#europe_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 594.90796,379.11354 L 536.5482,385.49319"
+       id="path3498"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_3"
+       inkscape:connection-end="#europe_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 528.24112,401.57328 L 549.07493,450.37348"
+       id="path3500"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_7"
+       inkscape:connection-end="#europe_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 463.56921,429.80712 L 507.55718,397.66852"
+       id="path3502"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_5"
+       inkscape:connection-end="#europe_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 507.55718,377.65429 L 462.60998,348.43423"
+       id="path3504"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_7"
+       inkscape:connection-end="#europe_6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 448.25161,353.50625 L 448.93656,425.90236"
+       id="path3506"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_6"
+       inkscape:connection-end="#europe_5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 595.84755,363.03344 L 553.76044,318.02917"
+       id="path3508"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_3"
+       inkscape:connection-end="#europe_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 537.05505,318.02917 L 525.20217,372.58227"
+       id="path3510"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#europe_7"
+       inkscape:connection-start="#europe_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 451.45339,324.51524 L 464.50752,267.84233"
+       id="path3512"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_6"
+       inkscape:connection-end="#europe_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 482.34195,263.40076 L 525.70902,293.47973"
+       id="path3514"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_1"
+       inkscape:connection-end="#europe_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 525.70902,309.11796 L 462.60998,333.42645"
+       id="path3516"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_2"
+       inkscape:connection-end="#europe_6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 458.32608,238.85132 L 433.85275,201.58875"
+       id="path3518"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#europe_1"
+       inkscape:connection-end="#north_america_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 793.91142,402.99284 L 841.57351,349.57872"
+       id="path3520"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_6"
+       inkscape:connection-end="#asia_5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 778.52023,402.99284 L 761.17996,300.67688"
+       id="path3522"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_6"
+       inkscape:connection-end="#asia_4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 766.48138,409.15303 L 711.81589,377.71889"
+       id="path3524"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_6"
+       inkscape:connection-end="#asia_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 773.21881,293.58189 L 840.01253,327.68269"
+       id="path3526"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_4"
+       inkscape:connection-end="#asia_5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 869.00355,333.75772 L 919.75084,329.11731"
+       id="path3528"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_5"
+       inkscape:connection-end="#oz_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 948.74186,315.8675 L 985.92139,285.28283"
+       id="path3530"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#oz_2"
+       inkscape:connection-start="#oz_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1014.9124,284.02787 L 1054.4406,313.12246"
+       id="path3532"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#oz_2"
+       inkscape:connection-end="#oz_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1054.4406,335.71095 L 1018.9124,364.92456"
+       id="path3534"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#oz_4"
+       inkscape:connection-start="#oz_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1003.8566,362.34819 L 1000.9772,287.85402"
+       id="path3536"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#oz_4"
+       inkscape:connection-end="#oz_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 989.92139,366.71079 L 948.74186,337.92473"
+       id="path3538"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#oz_4"
+       inkscape:connection-end="#oz_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 757.73873,271.68587 L 748.46101,135.09234"
+       id="path3540"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_4"
+       inkscape:connection-end="#asia_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 744.36825,106.10133 L 732.43999,50.472133"
+       id="path3542"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_3"
+       inkscape:connection-end="#asia_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 582.53158,159.29349 L 660.55394,201.40584"
+       id="path3548"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_10"
+       inkscape:connection-end="#asia_9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 670.53108,223.72526 L 654.36169,275.59877"
+       id="path3550"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_9"
+       inkscape:connection-end="#asia_8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 643.13893,304.58978 L 616.10786,363.03344"
+       id="path3552"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_8"
+       inkscape:connection-end="#europe_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 658.52298,304.58978 L 688.64072,354.88807"
+       id="path3554"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_8"
+       inkscape:connection-end="#asia_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 664.33883,289.57334 L 744.22779,286.70231"
+       id="path3556"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_4"
+       inkscape:connection-start="#asia_8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 748.02567,300.67688 L 708.01801,354.88807"
+       id="path3558"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_4"
+       inkscape:connection-end="#asia_7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 689.54496,222.56071 L 744.22779,272.85041"
+       id="path3560"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_4"
+       inkscape:connection-start="#asia_9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 735.63134,135.09234 L 686.89455,194.73425"
+       id="path3562"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_3"
+       inkscape:connection-end="#asia_9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 732.98093,122.63362 L 667.16818,131.88106"
+       id="path3564"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_11"
+       inkscape:connection-start="#asia_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 638.17716,136.92388 L 582.53158,148.46353"
+       id="path3570"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_11"
+       inkscape:connection-end="#asia_10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 656.97959,148.41334 L 670.74252,194.73425"
+       id="path3572"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_9"
+       inkscape:connection-start="#asia_11" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 682.82487,370.72656 L 623.89898,376.18596"
+       id="path5156"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_7"
+       inkscape:connection-end="#europe_3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 522.2842,47.271371 L 621.19267,61.32636"
+       id="path5182"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_1"
+       inkscape:connection-start="#north_america_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 579.16929,136.97407 L 624.55496,77.881693"
+       id="path5184"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_1"
+       inkscape:connection-start="#asia_10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 639.17879,77.881693 L 649.18206,119.42233"
+       id="path5186"
+       inkscape:connector-type="polyline"
+       inkscape:connection-end="#asia_11"
+       inkscape:connection-start="#asia_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 732.98093,113.17837 L 650.18369,70.804652"
+       id="path5188"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_3"
+       inkscape:connection-end="#asia_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 650.18369,59.14334 L 714.83629,40.219472"
+       id="path5190"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#asia_1"
+       inkscape:connection-end="#asia_2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 432.90281,93.088242 L 493.29318,54.47894"
+       id="path5192"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_4"
+       inkscape:connection-end="#north_america_1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 493.29318,45.908787 L 325.02783,54.002435"
+       id="path5194"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#north_america_1"
+       inkscape:connection-end="#north_america_9" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Key"
+     style="display:inline"
+     transform="translate(-196.97201,-21.481119)">
+    <g
+       id="g3753">
+      <rect
+         y="466.5246"
+         x="796.32129"
+         height="241.81508"
+         width="287.00223"
+         id="rect5196"
+         style="fill:#ffffff;fill-opacity:1;stroke:black;stroke-width:1.72824895;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         y="476.06097"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5210"
+         style="fill:#00d000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="514.69476"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5214"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="553.32855"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5216"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="591.96234"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5218"
+         style="fill:#ff8000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="630.59613"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5220"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="669.22992"
+         x="808.9978"
+         height="30.549334"
+         width="46.915047"
+         id="rect5222"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         id="asia_key"
+         y="498.24286"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="498.24286"
+           x="869.8374"
+           id="tspan5226"
+           sodipodi:role="line">Asia (7)</tspan></text>
+      <text
+         id="text5228"
+         y="536.87665"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="536.87665"
+           x="869.8374"
+           id="tspan5230"
+           sodipodi:role="line">Europe (5)</tspan></text>
+      <text
+         id="text5232"
+         y="575.51044"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="575.51044"
+           x="869.8374"
+           id="tspan5234"
+           sodipodi:role="line">North America (5)</tspan></text>
+      <text
+         id="text5236"
+         y="614.14423"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="614.14423"
+           x="869.8374"
+           id="tspan5238"
+           sodipodi:role="line">Africa (3)</tspan></text>
+      <text
+         id="text5240"
+         y="652.77802"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="652.77802"
+           x="869.8374"
+           id="tspan5242"
+           sodipodi:role="line">South America (2)</tspan></text>
+      <text
+         id="text5244"
+         y="691.4118"
+         x="869.8374"
+         style="font-size:22px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="691.4118"
+           x="869.8374"
+           id="tspan5246"
+           sodipodi:role="line">Australia (2)</tspan></text>
+    </g>
+  </g>
+</svg>

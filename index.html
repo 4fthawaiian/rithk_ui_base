@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="map-styles.css" />
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <title>Rithk Map</title>
+  </head>
+  <body>
+    <div style="font-size: 3em; font-weight: bold;">
+      Select a player, then select a territory:
+    </div>
+    <div id="map_data"></div>
+    <script type="text/javascript">
+      var current_color=""
+      // define the default colors for each continent
+      var country_colors=[];
+      country_colors["europe"] = "#0000ff";
+      country_colors["asia"] = "#00d000";
+      country_colors["north_america"] = "#ffff00";
+      country_colors["south_america"] = "#ff0000";
+      country_colors["africa"] = "#ff8000";
+      country_colors["oz"] = "#ff00ff";
+      var toggle_color = function(tel,debug) {
+        debug = typeof debug !== 'undefined' ? debug : true;
+        if(current_color == "") { return false; }; // bail if there's no current player. this is purely based on the value of "current_color" atm, needs more smarts
+        dtel = d3.select(tel);
+        // get the last class def from the selected country, to get its continent
+        var cssClass = dtel.attr("class").split(" ");
+        var lastCssClass = cssClass[cssClass.length-1];
+        if(dtel.style("fill") == country_colors[lastCssClass]) { // if the country is currently set to its default color..
+          dtel.style("fill", current_color); // set it to the current color (ie, the color of the player currently playing their turn)
+          if(debug) { console.log(dtel.attr("id")+" selected"); };
+          return true;
+        }
+        dtel.style("fill",country_colors[dtel.attr("class")]);
+        if(debug) { console.log(dtel.attr("id")+" deselected"); };
+        return true;
+      };
+      d3.xml("map.svg", "text/svg+xml", function(xml) {
+        var importedNode = document.importNode(xml.documentElement, true);
+        d3.select("#map_data").node().appendChild(importedNode);
+        d3.selectAll("use").on('click', function() {
+          toggle_color(this);
+        });
+        d3.selectAll(".player").on('click', function() {
+          current_player = d3.select(this);
+          current_color = current_player.style("fill");
+        });
+      });
+    </script>
+  </body>
+</html>
+
